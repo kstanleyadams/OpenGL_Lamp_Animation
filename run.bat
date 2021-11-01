@@ -1,0 +1,1 @@
+cd /d %~dp0javac Assignment1.javajava Assignment1call cmd
